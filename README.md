@@ -1,3 +1,4 @@
+- Oyun Phaser JS kütüphanesi kullanılarak geliştirilmiştir.
 - XAMPP vb. bir sanal sunucuyu pcnize kurup tüm dosyaları içine atarsanız localhost'tan çalıştırabilirsiniz. Hostinglerinizde de çalışacaktır.
 - Düzenleme yapmak isterseniz diye neredeyse tüm kodlara Türkçe açıklamalar ekledim.
 - Oyunu PC'de Safari ve EDGE tarayıcılarda denedim. Mobilde Pixel 7, Xiaomi 9 ve İphone 15 Promax tarayıcılarında sorunsuz çalışıyor. Bilinen bir bug'ı yok.
