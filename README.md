@@ -1,0 +1,2 @@
+- XAMPP vb. bir sanal sunucuyu pcnize kurup tüm dosyaları içine atarsanız localhost'tan çalıştırabilirsiniz. Hostinglerinizde de çalışacaktır.
+- Düzenleme yapmak isterseniz diye neredeyse tüm kodlara Türkçe açıklamalar ekledim.
